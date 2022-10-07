@@ -1,2 +1,2 @@
-# MariaDB
+# Base de datos
 Presentación MariaDB
